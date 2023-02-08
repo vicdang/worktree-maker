@@ -1,0 +1,22 @@
+{
+   "data": {
+      "layer_0": ["2023", "2024"],
+      "layer_1": ["Q1", "Q2", "Q3", "Q4"],
+      "layer_2": ["TMA"],
+      "layer_3": ["DG6"],
+      "layer_4": ["DC26"],
+      "layer_5": ["HCM", "TIP"],
+      "layer_6": ["DaaS"],
+      "layer_7": ["QE", "QA", "BE", "FE", "FS", "DO", "Intern"]
+   },
+   "template": [
+      "layer_2",
+      "layer_3",
+      "layer_4",
+      "layer_5",
+      "layer_0",
+      "layer_1",
+      "layer_6",
+      "layer_7"
+   ]
+}
